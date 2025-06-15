@@ -46,7 +46,7 @@ const ContactPage = () => {
             {/* Google Map Placeholder */}
             <div className="mt-10">
               <h3 className="text-2xl font-bold text-gray-800 mb-4">Find Us on the Map</h3>
-              <div className="bg-gray-200 h-64 w-full rounded-lg flex items-center justify-center text-gray-500 text-lg">
+              <div className="bg-blue-200 h-64 w-full rounded-lg flex items-center justify-center text-gray-500 text-lg">
                 Google Map Placeholder
               </div>
             </div>

@@ -6,7 +6,7 @@ const blogPosts = [
   {
     id: 1,
     title: '5 Tips for First-Time Homebuyers in Lagos',
-    image: 'https://images.unsplash.com/photo-1560185007-c5ca90409a80?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB4MjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2019/03/06/07/10/in-the-distance-4037680_1280.jpg',
     date: '2023-03-15',
     author: 'PropSure Team',
     excerpt: 'Navigating the real estate market as a first-time homebuyer can be daunting. Here are five essential tips to help you get started on your journey to homeownership in Lagos.',
@@ -28,7 +28,7 @@ const blogPosts = [
   {
     id: 2,
     title: 'The Rise of Smart Homes: Integrating Tech in Property',
-    image: 'https://images.unsplash.com/photo-1550953939-2c70032ac340?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2020/05/09/09/13/house-5148865_1280.jpg',
     date: '2023-02-28',
     author: 'InnovateHub',
     excerpt: 'Smart home technology is rapidly transforming the real estate landscape, offering convenience, security, and energy efficiency. Discover the latest trends and what to look for.',
@@ -48,7 +48,7 @@ const blogPosts = [
   {
     id: 3,
     title: 'Understanding Property Valuation: What Drives Market Prices?',
-    image: 'https://images.unsplash.com/photo-1517596009899-7096738379ba?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2022/06/02/11/33/dubai-7237750_1280.jpg',
     date: '2023-01-20',
     author: 'Market Analyst',
     excerpt: 'Property valuation is a complex process influenced by numerous factors, from location to market demand. Demystify what truly drives real estate prices.',
@@ -70,7 +70,7 @@ const blogPosts = [
   {
     id: 4,
     title: 'The Benefits of Renting vs. Buying: Which is Right for You?',
-    image: 'https://images.unsplash.com/photo-1489171078255-dc88e228574c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2013/12/29/10/15/directory-235079_1280.jpg',
     date: '2023-04-01',
     author: 'Financial Advisor',
     excerpt: 'Deciding whether to rent or buy is a major financial decision. We break down the pros and cons to help you choose the best path for your lifestyle and goals.',

@@ -8,7 +8,7 @@ const allProperties = [
   {
     id: 1,
     title: 'Modern Family Home',
-    image: 'https://images.unsplash.com/photo-1570129476813-f24f0c7650f4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2022/10/23/02/26/hotel-7540353_1280.jpg',
     type: 'House',
     location: 'Beverly Hills, CA',
     price: '$1,200,000',
@@ -21,7 +21,7 @@ const allProperties = [
   {
     id: 2,
     title: 'Chic Downtown Apartment',
-    image: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2018/11/06/05/57/apartment-3797468_1280.jpg',
     type: 'Apartment',
     location: 'Downtown, NYC',
     price: '$3,500/month',
@@ -34,7 +34,7 @@ const allProperties = [
   {
     id: 3,
     title: 'Spacious Suburban Villa',
-    image: 'https://images.unsplash.com/photo-1600585154340-dacd9860b73c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2018/01/26/08/15/dining-room-3108037_1280.jpg',
     type: 'House',
     location: 'Suburban, TX',
     price: '$450,000',
@@ -47,7 +47,7 @@ const allProperties = [
   {
     id: 4,
     title: 'Oceanfront Condo',
-    image: 'https://images.unsplash.com/photo-1580582932707-5205c5fce07e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2024/09/17/11/19/real-estate-9053405_1280.jpg',
     type: 'Apartment',
     location: 'Miami Beach, FL',
     price: '$2,800/month',
@@ -60,7 +60,7 @@ const allProperties = [
   {
     id: 5,
     title: 'Prime Development Land',
-    image: 'https://images.unsplash.com/photo-1588349279573-04e3e3b3a726?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2020/06/25/10/21/architecture-5339245_1280.jpg',
     type: 'Land',
     location: 'Rural, NY',
     price: '$800,000',
@@ -70,7 +70,7 @@ const allProperties = [
   {
     id: 6,
     title: 'Cozy City Flat',
-    image: 'https://images.unsplash.com/photo-1494526585095-c41746248156?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2021/09/13/06/26/apartment-6620407_1280.jpg',
     type: 'Apartment',
     location: 'London, UK',
     price: '£1,800/month',
@@ -83,7 +83,7 @@ const allProperties = [
   {
     id: 7,
     title: 'Countryside Estate',
-    image: 'https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2016/11/29/09/24/countryside-1867180_1280.jpg',
     type: 'House',
     location: 'Upstate, NY',
     price: '$950,000',
@@ -96,7 +96,7 @@ const allProperties = [
   {
     id: 8,
     title: 'Urban Studio Loft',
-    image: 'https://images.unsplash.com/photo-1522703816654-e0b0e51336c1?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2016/11/29/09/24/countryside-1867180_1280.jpg',
     type: 'Apartment',
     location: 'San Francisco, CA',
     price: '$2,200/month',

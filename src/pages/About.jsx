@@ -54,11 +54,11 @@ const AboutPage = () => {
               Today, PropSure stands as a testament to our dedication to transforming the real estate experience, empowering individuals and families to make informed decisions with confidence.
             </p>
           </div>
-          <div className="md:w-1/2">
+          <div className="md:w-1/2 h-[500px]">
             <img
-              src="https://images.unsplash.com/photo-1544436214-7299a9a3f23a?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://cdn.pixabay.com/photo/2020/07/13/14/47/museum-5400973_1280.jpg"
               alt="PropSure Team Office"
-              className="w-full h-auto rounded-lg shadow-lg"
+              className="w-full h-full object-cover rounded-lg shadow-lg"
             />
           </div>
         </section>

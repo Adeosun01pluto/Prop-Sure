@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 const featuredProperties = [
   {
     id: 1,
-    image: 'https://images.unsplash.com/photo-1570129476813-f24f0c7650f4?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2020/06/25/10/21/architecture-5339245_1280.jpg',
     type: 'House',
     location: 'Beverly Hills, CA',
     price: '$1,200,000',
@@ -23,7 +23,7 @@ const featuredProperties = [
   },
   {
     id: 3,
-    image: 'https://images.unsplash.com/photo-1600585154340-dacd9860b73c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2015/09/08/22/03/luggage-930804_1280.jpg',
     type: 'House',
     location: 'Suburban, TX',
     price: '$450,000',
@@ -31,7 +31,7 @@ const featuredProperties = [
   },
   {
     id: 4,
-    image: 'https://images.unsplash.com/photo-1580582932707-5205c5fce07e?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    image: 'https://cdn.pixabay.com/photo/2017/02/24/12/19/apartment-2094666_1280.jpg',
     type: 'Apartment',
     location: 'Miami Beach, FL',
     price: '$2,800/month',
@@ -43,8 +43,8 @@ const Home = () => {
   return (
     <div className="bg-gray-50 text-gray-900">
       {/* Hero Section */}
-      <section className="relative bg-cover bg-center h-screen-75 flex items-center justify-center text-white"
-        style={{ backgroundImage: "url('https://images.unsplash.com/photo-1560518883-ff51f8162846?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')" }}>
+      <section className="relative bg-cover bg-center h-[75vh] flex items-center justify-center text-white"
+        style={{ backgroundImage: "url('https://cdn.pixabay.com/photo/2017/08/02/01/01/living-room-2569325_1280.jpg')" }}>
         <div className="absolute inset-0 bg-black opacity-50"></div> {/* Overlay */}
         <div className="relative z-10 text-center p-4">
           <h1 className="text-3xl md:text-6xl font-extrabold mb-4 animate-fadeInUp">Find Your Next Home with Confidence.</h1>
