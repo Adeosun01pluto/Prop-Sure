@@ -14,7 +14,7 @@ import BlogPage from './pages/Blog';
 import BlogDetailPage from './pages/BlogDetail';
 import PostPropertyPage from './pages/PostProperty';
 import SinglePostPage from './pages/SinglePost'; // Import SinglePostPage
-
+import AdminDashboard from './pages/AdminDashboard'; // Import AdminDashboard
 
 
 const App = () => {
@@ -34,6 +34,7 @@ const App = () => {
             {/* <Route path="/blog/:id" element={<BlogDetailPage />} /> Dynamic route for blog details */}
             <Route path='/blog/:id' element={<SinglePostPage />} /> {/* Individual Blog Post Page */}
             <Route path="/post-property" element={<PostPropertyPage />} />
+            <Route path="/admin" element={<AdminDashboard />} /> {/* Admin Dashboard */}
             {/* Add a catch-all route for 404 if desired later */}
             {/* <Route path="*" element={<NotFoundPage />} /> */}
           </Routes>

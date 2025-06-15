@@ -8,7 +8,7 @@ const allProperties = [
   {
     id: 1,
     title: 'Modern Family Home',
-    image: 'https://cdn.pixabay.com/photo/2022/10/23/02/26/hotel-7540353_1280.jpg',
+    image: 'https://cdn.pixabay.com/photo/2018/11/06/05/57/apartment-3797468_1280.jpg',
     type: 'House',
     location: 'Beverly Hills, CA',
     price: '$1,200,000',
